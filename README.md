@@ -6,9 +6,9 @@ Done alongside a udemy course - https://www.udemy.com/course/react-the-complete-
 
 In a directory of your choice you can run:
 
-### `git clone https://github.com/hbamov/react-form-app.git`
+### `git clone https://github.com/hbamov/burger-builder.git`
 
-### `cd react-form-app`
+### `cd burger-builder`
 
 and then:
 
